@@ -23,7 +23,7 @@ Determining an individual's Prakriti, a fundamental concept in Ayurveda has long
 
 ![FNN Architecture](./Assets/Fnn%20architecture.png)
 
-## Watch the Output video 👉 [Video](https://youtu.be/sECt1T-hV10)
+## Watch the Output video 👉 [Video](https://youtu.be/0A7Vs0DgXdc)
 
 ## Installation Guide
 
